@@ -1,0 +1,3 @@
+Grupo,Aciertos,Total,Tasa de acierto
+A - Baseline,4673,6000,0.7788333333333334
+B - Random_Forest,4734,6000,0.789

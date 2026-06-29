@@ -1,0 +1,9 @@
+Elemento,Resultado
+Problema,Predecir incumplimiento de pago de tarjeta de crédito
+Modelo baseline,DummyClassifier - clase mayoritaria
+Modelo seleccionado,Random_Forest
+Métrica prioritaria,F1-score y Recall
+Impacto financiero,Reducir riesgo de otorgar crédito a clientes con alta probabilidad de incumplimiento
+Validación,Validación cruzada K-Fold
+Prueba A/B,Comparación simulada entre baseline y mejor modelo
+Decisión técnica,Seleccionar el modelo con mejor equilibrio entre detección de riesgo y estabilidad
